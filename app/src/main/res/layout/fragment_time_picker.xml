@@ -1,0 +1,12 @@
+<TimePicker
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:id="@+id/time_picker"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:headerBackground="#0aa2f9"
+  android:numbersSelectorColor="#0aa2f9"
+  tools:context="com.example.smmousavi.maktab_hw82_remindemelater.mvc.controller.fragments.TimePickerFragment">
+
+
+</TimePicker>
